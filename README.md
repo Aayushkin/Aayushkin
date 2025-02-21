@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @Aayushkin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Aayushkin! 👋
 
-<!---
-Aayushkin/Aayushkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with a love for coding and problem-solving. Here is a little bit about me:
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning more about advanced algorithms and data structures.
+- 💬 Ask me about anything related to JavaScript, TypeScript, and Python.
+- 📫 How to reach me: [aayushkin@example.com](mailto:aayushkin@example.com)
+- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+
+## 🛠️ Languages and Tools
+
+- **Languages:**
+  - JavaScript
+  - TypeScript
+  - Python
+  - C++
+  - Java
+
+- **Frameworks and Libraries:**
+  - React
+  - Node.js
+  - Express
+  - Django
+  - Flask
+
+- **Tools:**
+  - Git & GitHub
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - Visual Studio Code
+
+## 📈 GitHub Stats
+
+![Aayushkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayushkin&show_icons=true&theme=dracula)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aayushkin)
+- [Twitter](https://twitter.com/aayushkin)
+- [GitHub](https://github.com/Aayushkin)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect. 😊
