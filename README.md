@@ -6,7 +6,7 @@ I'm a passionate developer with a love for coding and problem-solving. Here is a
 
 - 🌱 I’m currently learning more about advanced algorithms and data structures.
 - 💬 Ask me about anything related to JavaScript, TypeScript, and Python.
-- 📫 How to reach me: [aayushkin@example.com](mailto:aayushkin@example.com)
+- 📫 How to reach me: [aayushkin@example.com](mailto:aayush-tech07.website)
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## 🛠️ Languages and Tools
